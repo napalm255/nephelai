@@ -1,0 +1,5 @@
+#!/bin/bash
+chown -R nephelai: /data/www/nephelai.org/mobile/*
+#--should be this when done
+#chmod -R 750 /data/www/nephelai.org/mobile/*
+chmod -R 770 /data/www/nephelai.org/mobile/*
