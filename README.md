@@ -1,4 +1,0 @@
-nephelai
-========
-
-Nephelai - AWS Management
